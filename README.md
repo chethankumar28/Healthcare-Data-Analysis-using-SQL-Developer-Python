@@ -89,5 +89,8 @@ ER Diagram
 
 ---
 
-**Key Tools:** Python, Oracle SQL Developer, Pandas, Faker, Oracledb  
-**Key Skills:** SQL, Data Analysis, Data Modeling, Database Design, ETL  
+## Key Tools
+Python | Oracle SQL Developer | Pandas | Faker | Oracledb  
+
+## Key Skills
+SQL | Data Analysis | Data Modeling | Database Design | ETL  
