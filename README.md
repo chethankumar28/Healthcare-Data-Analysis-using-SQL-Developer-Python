@@ -14,10 +14,15 @@ It analyzes the relationships between **patients, doctors, prescriptions, and bi
 ---
 
 ## Database Structure
+
 | Table | Description | Key Columns |
+
 | `DOCTORS` | Doctor information & specialization | DOCTOR_ID, DOCTOR_NAME, SPECIALIZATION |
+
 | `PATIENTS` | Patient demographics & doctor linkage | PATIENT_ID, DOCTOR_ID, FIRST_NAME, LAST_NAME, GENDER, DATE_OF_BIRTH, CITY, STATE, |
+
 | `PRESCRIPTIONS` | Medicines prescribed & cost | PRESCRIPTION_ID, PATIENT_ID, DOCTOR_ID, MEDICINE_NAME, DOSAGE, PRESCRIPTION_DATE, COST |
+
 | `BILLING` | Payment and billing information | BILL_ID, PATIENT_ID, TOTAL_AMOUNT, PAYMENT_MODE |
 
 ---
