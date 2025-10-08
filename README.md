@@ -73,11 +73,13 @@ It analyzes the relationships between **patients, doctors, prescriptions, and bi
 ## Analysis Queries
 *(Full list available in `sql/QUERIES_Analysis.sql`)*
 
---
+---
 
 ## Visual Representation
 ER Diagram
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/60abe1a4-ed4d-4b02-b434-bff34a8e5e10" />
+
+---
 
 ## Key Learnings
 - Designed a relational database from synthetic data using Python
