@@ -86,3 +86,8 @@ ER Diagram
 - Mastered Oracle SQL Developer for data analysis & validation
 - Performed end-to-end ETL and analytics workflow
 - Gained hands-on experience with Joins, Aggregations, Subqueries, and Data Cleaning
+
+---
+
+**Key Tools:** Python, Oracle SQL Developer, Pandas, Faker, Oracledb  
+**Key Skills:** SQL, Data Analysis, Data Modeling, Database Design, ETL  
