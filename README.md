@@ -77,7 +77,7 @@ It analyzes the relationships between **patients, doctors, prescriptions, and bi
 
 ## Visual Representation
 ER Diagram
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/60abe1a4-ed4d-4b02-b434-bff34a8e5e10" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/60abe1a4-ed4d-4b02-b434-bff34a8e5e10" />
 
 ---
 
